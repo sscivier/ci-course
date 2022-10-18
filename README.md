@@ -2,6 +2,8 @@
 
 [![Run on multiple OS](https://github.com/sscivier/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/sscivier/ci-course/actions/workflows/os-tests.yml)
 
+[![codecov](https://codecov.io/gh/sscivier/ci-course/branch/main/graph/badge.svg?token=RVA0SAVY4V)](https://codecov.io/gh/sscivier/ci-course)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
