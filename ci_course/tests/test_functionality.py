@@ -15,7 +15,7 @@ class TestFunctionality(unittest.TestCase):
         self.assertEqual(ci_course.minimum(-1.2, -3), -3)
 
     def test_minimum_none(self):
-        self.assertEqual(ci_course.minimum(1, '2', 3), None)
+        self.assertEqual(ci_course.minimum(1, '2', 3), 1)
         self.assertEqual(ci_course.minimum('My', 'Name', 'Is'), None)
 
 
