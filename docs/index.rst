@@ -10,7 +10,7 @@ Welcome to CI Course's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+Hello World!
 
 Indices and tables
 ==================
